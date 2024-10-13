@@ -1,4 +1,3 @@
-
 package com.example.inventory.data
 
 import android.content.Context

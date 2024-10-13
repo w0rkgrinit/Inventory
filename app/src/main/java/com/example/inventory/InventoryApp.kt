@@ -1,6 +1,4 @@
-
 @file:OptIn(ExperimentalMaterial3Api::class)
-
 package com.example.inventory
 
 import androidx.compose.material.icons.Icons.Filled
@@ -19,17 +17,13 @@ import androidx.navigation.compose.rememberNavController
 import com.example.inventory.R.string
 import com.example.inventory.ui.navigation.InventoryNavHost
 
-/**
- * Top level composable that represents screens for the application.
- */
+
 @Composable
 fun InventoryApp(navController: NavHostController = rememberNavController()) {
     InventoryNavHost(navController = navController)
 }
 
-/**
- * App bar to display title and conditionally display the back navigation.
- */
+
 @Composable
 fun InventoryTopAppBar(
     title: String,

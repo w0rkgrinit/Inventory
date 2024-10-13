@@ -1,4 +1,3 @@
-
 package com.example.inventory.ui.item
 
 import androidx.annotation.StringRes

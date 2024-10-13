@@ -1,5 +1,3 @@
-
-
 package com.example.inventory.ui.item
 
 import androidx.lifecycle.SavedStateHandle

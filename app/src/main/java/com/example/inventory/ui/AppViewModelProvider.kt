@@ -1,4 +1,3 @@
-
 package com.example.inventory.ui
 
 import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory
